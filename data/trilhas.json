@@ -24,22 +24,6 @@
     ]
   },
   {
-    
-    ]
-  },
-  {
-    "nome": "Roteiro Serra do Cipó",
-    "cidade": "Santana do Riacho",
-    "dificuldade": "Média",
-    "distancia_km": 7.0,
-    "ponto_partida": "Entrada do Parque Nacional da Serra do Cipó",
-    "mapa_url": "https://exemplo.com/mapa-serra-cipo",
-    "imagens": [
-      "assets/img/serra-cipo/serra1.jpg",
-      "assets/img/serra-cipo/serra2.jpg"
-    ]
-  },
-  {
     "nome": "Roteiro Monte Verde",
     "cidade": "Camanducaia",
     "dificuldade": "Média",
