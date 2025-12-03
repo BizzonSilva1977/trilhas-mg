@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Trilha da Serra do Cipó",
+    "cidade": "Santana do Riacho",
+    "dificuldade": "Média",
+    "distancia_km": 8.5,
+    "ponto_partida": "Portaria principal do parque",
+    "mapa_url": "https://exemplo.com/mapa-cipo"
+  },
+  {
+    "nome": "Cachoeira do Tabuleiro",
+    "cidade": "Conceição do Mato Dentro",
+    "dificuldade": "Alta",
+    "distancia_km": 12.0,
+    "ponto_partida": "Centro de visitantes",
+    "mapa_url": "https://exemplo.com/mapa-tabuleiro"
+  }
+]
