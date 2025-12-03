@@ -5,24 +5,11 @@
     "dificuldade": "Média",
     "distancia_km": 8.5,
     "ponto_partida": "Portaria principal do parque",
-    "mapa_url": "https://exemplo.com/mapa-cipo"
-  },
-  {
-    "nome": "Cachoeira do Tabuleiro",
-    "cidade": "Conceição do Mato Dentro",
-    "dificuldade": "Alta",
-    "distancia_km": 12.0,
-    "ponto_partida": "Centro de visitantes",
-    "mapa_url": "https://exemplo.com/mapa-tabuleiro"
-  },
-  {
-    "nome": "Trilha da Serra do Cipó",
-    "cidade": "Santana do Riacho",
-    "dificuldade": "Média",
-    "distancia_km": 8.5,
-    "ponto_partida": "Portaria principal do parque",
     "mapa_url": "https://exemplo.com/mapa-cipo",
-    "imagem_url": "assets/img/cipo.jpg"
+    "imagens": [
+      "assets/img/cipo/cipo1.jpg",
+      "assets/img/cipo/cipo2.jpg"
+    ]
   },
   {
     "nome": "Cachoeira do Tabuleiro",
@@ -31,16 +18,14 @@
     "distancia_km": 12.0,
     "ponto_partida": "Centro de visitantes",
     "mapa_url": "https://exemplo.com/mapa-tabuleiro",
-    "imagem_url": "assets/img/tabuleiro.jpg"
+    "imagens": [
+      "assets/img/tabuleiro/tabuleiro1.jpg",
+      "assets/img/tabuleiro/tabuleiro2.jpg"
+    ]
   },
   {
-    "nome": "Roteiro Lavras Novas",
-    "cidade": "Ouro Preto",
-    "dificuldade": "Fácil",
-    "distancia_km": 5.0,
-    "ponto_partida": "Praça central de Lavras Novas",
-    "mapa_url": "https://exemplo.com/mapa-lavras-novas",
-    "imagem_url": "assets/img/lavras-novas.jpg"
+    
+    ]
   },
   {
     "nome": "Roteiro Serra do Cipó",
@@ -49,7 +34,10 @@
     "distancia_km": 7.0,
     "ponto_partida": "Entrada do Parque Nacional da Serra do Cipó",
     "mapa_url": "https://exemplo.com/mapa-serra-cipo",
-    "imagem_url": "assets/img/serra-cipo.jpg"
+    "imagens": [
+      "assets/img/serra-cipo/serra1.jpg",
+      "assets/img/serra-cipo/serra2.jpg"
+    ]
   },
   {
     "nome": "Roteiro Monte Verde",
@@ -58,7 +46,10 @@
     "distancia_km": 6.5,
     "ponto_partida": "Portal de Monte Verde",
     "mapa_url": "https://exemplo.com/mapa-monte-verde",
-    "imagem_url": "assets/img/monte-verde.jpg"
+    "imagens": [
+      "assets/img/monte-verde/monte1.jpg",
+      "assets/img/monte-verde/monte2.jpg"
+    ]
   },
   {
     "nome": "Roteiro Estrada Real",
@@ -67,6 +58,9 @@
     "distancia_km": 20.0,
     "ponto_partida": "Início do Caminho Velho em Ouro Preto",
     "mapa_url": "https://exemplo.com/mapa-estrada-real",
-    "imagem_url": "assets/img/estrada-real.jpg"
+    "imagens": [
+      "assets/img/estrada-real/estrada1.jpg",
+      "assets/img/estrada-real/estrada2.jpg"
+    ]
   }
 ]
