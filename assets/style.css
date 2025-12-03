@@ -20,3 +20,16 @@ li {
   border: 1px solid #ddd;
   border-radius: 5px;
 }
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.imagem-trilha {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
