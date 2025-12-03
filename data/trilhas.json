@@ -7,8 +7,25 @@
     "ponto_partida": "Portaria principal do parque",
     "mapa_url": "https://exemplo.com/mapa-cipo",
     "imagens": [
-      "assets/img/cipo/cipo1.jpg",
-      "assets/img/cipo/cipo2.jpg"
+      "assets/img/cipo/cipo1.webp",
+      "assets/img/cipo/cipo2.webp",
+      "assets/img/cipo/cipo3.webp",
+      "assets/img/cipo/cipo4.webp",
+      "assets/img/cipo/cipo5.webp",
+      "assets/img/cipo/cipo6.webp",
+      "assets/img/cipo/cipo7.webp",
+      "assets/img/cipo/cipo8.webp",
+      "assets/img/cipo/cipo9.webp",
+      "assets/img/cipo/cipo10.webp",
+      "assets/img/cipo/cipo11.webp",
+      "assets/img/cipo/cipo12.webp",
+      "assets/img/cipo/cipo13.webp",
+      "assets/img/cipo/cipo14.webp",
+      "assets/img/cipo/cipo15.webp",
+      "assets/img/cipo/cipo16.webp",
+      "assets/img/cipo/cipo17.webp",
+      "assets/img/cipo/cipo18.webp",
+      "assets/img/cipo/cipo19.webp"
     ]
   },
   {
